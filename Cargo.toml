@@ -1,0 +1,12 @@
+[package]
+name = "cargo-dioxus"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "快速创建dioxus脚手架"
+authors = ["dioxus.rs <team@dioxus.rs>"]
+repository = "https://github.com/dioxus/cargo-dioxus.git"
+homepage = "https://dioxus.rs"
+
+
+[dependencies]
